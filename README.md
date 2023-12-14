@@ -16,6 +16,7 @@
 * inputs: TPS, IAT, CLT, O2, BARO, MAP
 * CAN-Bus onboard
 * 2x VR/Hall input
+* baro sensor onboard
 * 4-layer PCB
 
 ## Pinout
