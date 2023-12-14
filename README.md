@@ -26,6 +26,9 @@ All nececery files to manufacture this board in JLCPCB available in this Git
 ## YT video from test this ECU with M112 Mercedes V6 engine
 https://www.youtube.com/watch?v=3s2p-b_rBg0
 
+## Topic on Speeduino official board
+https://speeduino.com/forum/viewtopic.php?t=5611
+
 ## LICENSE
 Creative Commons NonCommercial
 
