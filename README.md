@@ -16,6 +16,7 @@
 * inputs: TPS, IAT, CLT, O2, BARO, MAP
 * CAN-Bus onboard
 * 2x VR/Hall input
+* 4-layer PCB
 
 ## Pinout
 Pinout on my blog --> https://seasidecustoms.blogspot.com/p/scg-ecu-20.html
