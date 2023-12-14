@@ -23,6 +23,9 @@ Pinout on my blog --> https://seasidecustoms.blogspot.com/p/scg-ecu-20.html
 ## JLCPCB production
 All nececery files to manufacture this board in JLCPCB available in this Git
 
+## YT video from test this ECU with M112 Mercedes V6 engine
+https://www.youtube.com/watch?v=3s2p-b_rBg0
+
 ## LICENSE
 Creative Commons NonCommercial
 
