@@ -22,11 +22,8 @@
 ## Pinout
 Pinout on my blog --> https://seasidecustoms.blogspot.com/p/scg-ecu-20.html
 
-## Board production
-Some part are missing in JLCPCB file, because not available in JLCPCB catalogue. Part's number/value U can find on schematic. Mosfet's, MAX9926 available in Mouser. Correct part placement in part_placement.png file
-
 ## JLCPCB production
-All nececery files to manufacture this board in JLCPCB available in this Git
+All nececery files to manufacture this board in JLCPCB available in this Git. Some part are missing in JLCPCB file, because not available in JLCPCB catalogue. Part's number/value U can find on schematic. Mosfet's, MAX9926 available in Mouser. Correct part placement in part_placement.png file. Cypress chip is nececery if U want use Wideband controller. 
 
 ## YT video from test this ECU with M112 Mercedes V6 engine
 https://www.youtube.com/watch?v=3s2p-b_rBg0
@@ -39,3 +36,5 @@ Creative Commons NonCommercial
 
 ## Special THNX
 Special thnx for Benas Brazdziunas for preparing firmware, base_map and INI files
+
+## I provide files for free. I am not responsible for any damage caused. You use at your own risk.
