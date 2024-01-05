@@ -22,6 +22,9 @@
 ## Pinout
 Pinout on my blog --> https://seasidecustoms.blogspot.com/p/scg-ecu-20.html
 
+## Board production
+Some part are missing in JLCPCB file, because not available in JLCPCB catalogue. Part's number/value U can find on schematic. Mosfet's, MAX9926 available in Mouser. Correct part placement in part_placement.png file
+
 ## JLCPCB production
 All nececery files to manufacture this board in JLCPCB available in this Git
 
