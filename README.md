@@ -34,6 +34,9 @@ https://speeduino.com/forum/viewtopic.php?t=5611
 ## LICENSE
 Creative Commons NonCommercial
 
+## Part's placement
+Open file SCG-ECU_2.0_STM32F407_standalone_part_placement-EAGLE.brd in EAGLE to see part's name/value
+
 ## Special THNX
 Special thnx for Benas Brazdziunas for preparing firmware, base_map and INI files
 
